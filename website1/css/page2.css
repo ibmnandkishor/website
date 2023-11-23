@@ -1,0 +1,15 @@
+h1{text-align: center;
+    text-shadow: 2px 2px #ff0000;
+font-size: 60px;}
+
+   body{background-image: linear-gradient( to left, rgb(217, 171, 171),rgb(167, 232, 167),rgb(158, 158, 225));
+}
+
+P{width: 100%;
+ 
+  color: darkviolet;
+font-size: 25px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+   img{width: 600px;
+     height: 600px;}
